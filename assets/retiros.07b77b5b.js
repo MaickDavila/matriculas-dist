@@ -1,1 +1,0 @@
-import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{o as r,e as o}from"./index.96397d6f.js";const t={};function c(a,n){return r(),o("h1",null,"Orueba")}var f=e(t,[["render",c]]);export{f as default};
